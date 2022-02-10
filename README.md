@@ -1,2 +1,2 @@
 # qluster-cheqer
-A cluster status checker based on services check.
+A cluster status checker based on services health check.
